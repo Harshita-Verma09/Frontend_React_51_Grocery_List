@@ -35,7 +35,7 @@ const Grocery = () => {
     return (
         <div className="min-h-screen flex items-center justify-center bg-gray-900 text-white">
             <div className="w-full max-w-lg p-6 bg-gray-800 rounded-lg shadow-lg">
-                <h1 className="text-2xl font-bold text-center mb-4 text-gray-200">🛒 Grocery List</h1>
+                <h1 className="text-2xl font-bold text-center mb-4 text-gray-200">Grocery List</h1>
 
                 {/* Input & Button */}
                 <div className="flex gap-2 mb-6">
@@ -97,7 +97,7 @@ const Grocery = () => {
                         ))}
                     </ul>
                 ) : (
-                    <p className="text-gray-400 text-center">📝 Add grocery items to the list.</p>
+                    <p className="text-gray-400 text-center"> Add grocery items to the list.</p>
                 )}
             </div>
         </div>
