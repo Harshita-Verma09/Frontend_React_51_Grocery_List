@@ -21,7 +21,7 @@ Edit
 npm start
 The app will start on http://localhost:3000
 
-🛠️ Tech Stack
+Tech Stack
 React
 
 Tailwind CSS
