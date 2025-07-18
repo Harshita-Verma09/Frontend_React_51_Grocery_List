@@ -2,21 +2,16 @@
 
 A simple and elegant Grocery List app built with **React** and **Tailwind CSS**. Users can add, edit, and delete items from their list — all in a sleek dark UI!
 
-## ✨ Features
+##  Features
 
-- ✅ Add grocery items
-- ✏️ Edit existing items
-- 🗑️ Delete items
-- 🌙 Dark mode design
-- ⚛️ Built with React functional components and Hooks
-
----
-
-##  Preview
-
-![Grocery App Screenshot](link-to-screenshot-if-you-have-one.png)
+-  Add grocery items
+-  Edit existing items
+-  Delete items
+-  Dark mode design
+-  Built with React functional components and Hooks
 
 ---
+
 
 
 ## Run the app
